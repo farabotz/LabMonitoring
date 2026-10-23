@@ -1,0 +1,6 @@
+* text=auto eol=lf
+third_party/** -text -whitespace
+evidence/** -text -whitespace
+*.png binary
+# Heading RST asli "=======" bukan konflik; pertahankan byte notice vendor.
+third_party/licenses/PyJWT/AUTHORS.rst conflict-marker-size=32

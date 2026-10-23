@@ -1,0 +1,36 @@
+[
+  {
+    "file": "D:\\semester7\\LABMONITORING\\build\\student\\entry_student.dist\\LabAccess-student.exe",
+    "bytes": 35188224,
+    "machine": "0x8664",
+    "sha256": "f40c15bcc79a83b998dafd494538d3cf4ffde4fe99ddaacf5dffc6d9da977cb7",
+    "smoke_exit": 0,
+    "smoke_seconds": 5.786244800001441,
+    "smoke_peak_rss_mib": 103.8125,
+    "smoke_cpu_percent_machine_peak": 29.1,
+    "resource_scope": "Startup dan jendela login smoke 2 detik; bukan sesi aktif/steady-state, kamera atau Win11"
+  },
+  {
+    "file": "D:\\semester7\\LABMONITORING\\build\\admin\\entry_admin.dist\\LabAccess-admin.exe",
+    "bytes": 32100352,
+    "machine": "0x8664",
+    "sha256": "b91021f5cb352fd1c06d60e40a1b3f5b1a83d51b2937d2616f9529224ee7b1a5",
+    "smoke_exit": 0,
+    "smoke_seconds": 3.9606522000012774,
+    "smoke_peak_rss_mib": 96.19921875,
+    "smoke_cpu_percent_machine_peak": 28.675,
+    "resource_scope": "Startup dan jendela login smoke 2 detik; bukan sesi aktif/steady-state, kamera atau Win11"
+  },
+  {
+    "file": "dist\\LabAccess-admin-Setup-0.1.0.exe",
+    "bytes": 88468677,
+    "machine": "0x14c",
+    "sha256": "f9bc741fdb4a6ba13cb02304f7d5c25015391bcc15e53cb6843425279e6d369c"
+  },
+  {
+    "file": "dist\\LabAccess-student-Setup-0.1.0.exe",
+    "bytes": 89798093,
+    "machine": "0x14c",
+    "sha256": "bce76086ec7ec4ba41974b36ef044ae0e69cfeb786caaa3e31e86fe27b18b66a"
+  }
+]

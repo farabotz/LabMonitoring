@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="1" skipped="0" tests="2" time="35.528" timestamp="2026-10-23T00:49:41.854819+07:00" hostname="DESKTOP-F1KV61K"><testcase classname="tests.test_desktop_live" name="test_desktop_password_live[False]" time="22.045" /><testcase classname="tests.test_desktop_live" name="test_desktop_password_live[True]" time="10.634"><failure message="pywintypes.error: (233, 'ReadFile', 'No process is on the other end of the pipe.')">tests\test_desktop_live.py:64: in test_desktop_password_live
+    student = StudentWindow(url, tmp_path / "device.dpapi", agent_pipe=pipe_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+apps\student_client\main.py:26: in __init__
+    self.api = AgentApi(agent_pipe)
+               ^^^^^^^^^^^^^^^^^^^^
+services\windows_agent\client.py:9: in __init__
+    self.device = pipe_request(pipe_name, {"op": "metadata"})
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+services\windows_agent\bridge.py:120: in pipe_request
+    _, raw = win32file.ReadFile(pipe, MAX_MESSAGE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+E   pywintypes.error: (233, 'ReadFile', 'No process is on the other end of the pipe.')</failure></testcase></testsuite></testsuites>

@@ -1,0 +1,10 @@
+{
+  "app": "student",
+  "target": "C:\\Users\\Fitra\\AppData\\Local\\Programs\\LabAccess-student",
+  "install": true,
+  "upgrade": true,
+  "smoke": true,
+  "uninstall": true,
+  "external_data_preserved": true,
+  "connection_preserved": true
+}

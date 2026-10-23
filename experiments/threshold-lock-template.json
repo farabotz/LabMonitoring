@@ -1,0 +1,10 @@
+{
+  "status": "belum_dikalibrasi",
+  "threshold": null,
+  "calibration_dataset_id": null,
+  "calibration_sessions": [],
+  "target_fmr": null,
+  "locked_at": null,
+  "approved_by": null,
+  "model_commit": "48b10fa505aeb51fbd127fc60a5c660040e823b7"
+}

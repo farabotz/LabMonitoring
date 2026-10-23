@@ -1,0 +1,33 @@
+{
+  "version": "6.7.0",
+  "engines": {
+    "node": "^22.19.0 || ^24.11.0 || >=26.0.0"
+  },
+  "dist": {
+    "shasum": "11f23ba377303a5c28b3162180cf2bf3f3643708",
+    "tarball": "https://registry.npmjs.org/rea-agents/-/rea-agents-6.7.0.tgz",
+    "fileCount": 1775,
+    "integrity": "sha512-yhIx2ioJYYT1C/tONfYeitC6LhnKmCh+ZwRUOgYuhSc733lGhkkt73zhug9WmLgxoMdKuqIYGCoBfD4fXkOhFw==",
+    "signatures": [
+      {
+        "sig": "MEUCIHfjVXgVvcA/R0R46DQc4pU5c25jTyUsOKRWQJn0wLlrAiEAq6dwgt6G1YGLjbijVJkZJv8O01xPJgQUwvsHt0zZbwo=",
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+      },
+      {
+        "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U",
+        "sig": "MEUCICqYrwatVk9nUkweRYKIZHAXPVJyORdbdQvgFhvBtxQAAiEA/yg3AjoNhKvknQ/WWaetE1Jm1tzmIwQ9as5IPE3Luts="
+      }
+    ],
+    "attestations": {
+      "url": "https://registry.npmjs.org/-/npm/v1/attestations/rea-agents@6.7.0",
+      "provenance": {
+        "predicateType": "https://slsa.dev/provenance/v1"
+      }
+    },
+    "unpackedSize": 28575703
+  },
+  "repository": {
+    "url": "git+https://github.com/morluto/rea.git",
+    "type": "git"
+  }
+}

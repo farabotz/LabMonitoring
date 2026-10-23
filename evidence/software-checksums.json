@@ -1,0 +1,18 @@
+[
+  {
+    "file": ".tools/postgresql.zip",
+    "sha256": "d378882abd001a186735acd6f6ba716bca6ccd192e800412d4fd15ed25376b3e"
+  },
+  {
+    "file": ".tools/nsis.zip",
+    "sha256": "ba63dffc4410ee89193e1cb5a41989991bd77c61068da17e3156d136b7b0b3d8"
+  },
+  {
+    "file": ".tools/veyon-setup.exe",
+    "sha256": "bb428d1779a4e54055c8439c069e824904377ddc2e76b5e273cabd9d867f43ed"
+  },
+  {
+    "file": ".tools/node.exe",
+    "sha256": "995a3fb3cefad590cd3f4b321532a4b9582fb9c6575320ed2e3e894caac3e362"
+  }
+]

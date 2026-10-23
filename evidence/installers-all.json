@@ -1,0 +1,28 @@
+[
+  {
+    "app": "student",
+    "target": "C:\\Users\\Fitra\\AppData\\Local\\Programs\\LabAccess-student",
+    "tested_at_utc": "2026-10-22T18:11:19.8882791Z",
+    "installer_sha256": "BCE76086EC7EC4BA41974B36EF044AE0E69CFEB786CAAA3E31E86FE27B18B66A",
+    "install": true,
+    "upgrade": true,
+    "smoke": true,
+    "uninstall": true,
+    "external_data_preserved": true,
+    "installed_exe_sha256": "F40C15BCC79A83B998DAFD494538D3CF4FFDE4FE99DDAACF5DFFC6D9DA977CB7",
+    "connection_preserved": true
+  },
+  {
+    "app": "admin",
+    "target": "C:\\Users\\Fitra\\AppData\\Local\\Programs\\LabAccess-admin",
+    "tested_at_utc": "2026-10-22T18:11:58.7894298Z",
+    "installer_sha256": "F9BC741FDB4A6BA13CB02304F7D5C25015391BCC15E53CB6843425279E6D369C",
+    "install": true,
+    "upgrade": true,
+    "smoke": true,
+    "uninstall": true,
+    "external_data_preserved": true,
+    "installed_exe_sha256": "B91021F5CB352FD1C06D60E40A1B3F5B1A83D51B2937D2616F9529224EE7B1A5",
+    "connection_preserved": true
+  }
+]

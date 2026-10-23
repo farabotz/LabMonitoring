@@ -1,0 +1,15 @@
+{
+  "Caption": "Microsoft Windows 10 Pro",
+  "Version": "10.0.19045",
+  "Architecture": "64-bit",
+  "Elevated": false,
+  "Windows11": false,
+  "VeyonService": false,
+  "CameraDevices": [
+    {
+      "FriendlyName": "HP HD Webcam [Fixed]",
+      "Status": "OK"
+    }
+  ],
+  "Enforcement": "BELUM DIVERIFIKASI; tidak ada policy diubah"
+}

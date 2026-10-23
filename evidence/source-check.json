@@ -1,0 +1,7 @@
+{
+  "files_checked": 301,
+  "local_secret_values_checked": 2,
+  "forbidden_paths": [],
+  "local_secrets_found_in_source": [],
+  "scope": "Nilai key .env lokal dan path sensitif; bukan audit seluruh jenis secret."
+}

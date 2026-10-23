@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites name="pytest tests"><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="6.059" timestamp="2026-10-22T23:59:14.480440+07:00" hostname="DESKTOP-F1KV61K"><testcase classname="tests.test_sessions" name="test_csv_injection_and_filter" time="5.831" /></testsuite></testsuites>

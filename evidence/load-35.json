@@ -1,0 +1,14 @@
+{
+  "kind": "simulated_clients_same_host",
+  "physical_lab_pcs": 0,
+  "clients": 35,
+  "successful_logins": 35,
+  "admin_active_sessions": 35,
+  "login_p50_ms": 3542.3301000009815,
+  "login_p95_ms": 4252.1673700000965,
+  "heartbeat_p95_ms": 1886.3709899995226,
+  "admin_get_latency_ms": 72.19160000022384,
+  "wall_seconds": 5.75759410000137,
+  "server_process_tree_peak_rss_mb": 970.33203125,
+  "note": "Tidak mewakili 35 PC fisik, UI desktop atau beban Veyon/wajah."
+}

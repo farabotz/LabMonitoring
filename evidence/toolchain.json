@@ -1,0 +1,11 @@
+{
+  "python": "3.11.15 (main, Jul 18 2026, 17:06:27) [MSC v.1944 64 bit (AMD64)]",
+  "nuitka": "4.3.1",
+  "pyside6": "6.10.3",
+  "uv_lock_sha256": "5971eac2227c64d57276b576cbf515e4bae1375c828b0ab8e276a1d269d66868",
+  "compiler_version": "GCC 15.2.0 / mingw-w64 13.0.0 msvcrt r6",
+  "compiler_file": ".tools\\nuitka-cache\\downloads\\gcc\\x86_64\\15.2.0posix-13.0.0-msvcrt-r6\\mingw64\\bin\\gcc.exe",
+  "compiler_exe_sha256": "4c4b0bc110422cc3e48d1936eb5c5cdb311f40f3f5ee7fb693dad8d3f1db0a9f",
+  "build_options": "scripts/Build-Windows.ps1",
+  "host": "Windows 10 Pro 19045 x64; bukan uji Windows 11"
+}
